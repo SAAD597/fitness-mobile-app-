@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Fitness Coach</string>
+    <string name="generate_workout">Generate Workout</string>
+    <string name="select_goal">Select Fitness Goal</string>
+    <string name="select_time">Select Available Time</string>
+    <string name="select_intensity">Select Intensity</string>
+    <string name="workout_output_placeholder">Your workout plan will appear here...</string>
+
+    <string-array name="goal_options">
+        <item>Cardio</item>
+        <item>Strength</item>
+        <item>Weight Loss</item>
+        <item>General Fitness</item>
+    </string-array>
+
+    <string-array name="time_options">
+        <item>10 minutes</item>
+        <item>20 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+    </string-array>
+
+    <string-array name="intensity_options">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+    </string-array>
+
+    <string name="coach_on">🔊 Coach vocal : ON</string>
+    <string name="coach_off">🔇 Coach vocal : OFF</string>
+    <string name="tts_not_supported">Langue TTS non supportée</string>
+    <string name="workout_ready">Séance %1$s prête !</string>
+    <string name="exercise_announcement">Exercice %1$d : %2$s, %3$s</string>
+    <string name="lets_go">C\'est parti ! Bonne séance !</string>
+</resources>

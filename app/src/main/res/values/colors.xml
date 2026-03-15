@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="glass_bg">#BCFFFFFF</color> <!-- Semi-transparent white -->
+    <color name="glass_border">#33FFFFFF</color>
+    <color name="modern_purple">#7F77DD</color>
+    <color name="modern_blue">#2196F3</color> <!-- Updated to a more standard Material Blue -->
+    <color name="deep_blue">#0D47A1</color>
+    <color name="soft_blue">#BBDEFB</color>
+    <color name="accent_blue">#00B0FF</color>
+    <color name="dark_bg">#121212</color>
+    <color name="dark_card">#1E1E1E</color>
+    <color name="electric_blue">#00E5FF</color>
+    <color name="themeBackground">#E3F2FD</color>
+    <color name="colorBackground">#F5F5F5</color>
+<color name="colorTextSecondary">#757575</color>
+</resources>
